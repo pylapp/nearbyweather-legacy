@@ -1,3 +1,16 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [erikmartens/nearbyweather-legac](https://github.com/erikmartens/nearbyweather-legacy) (ex _NearbyWeather_)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- 🇫🇷 French internationalization ([f514353](https://github.com/erikmartens/nearbyweather-legacy/commit/f514353d227de3dc8495bfb94d909275bcadae7a))
+- Localization of requests ([da4b03e](https://github.com/erikmartens/nearbyweather-legacy/commit/da4b03ebdc4c843543dd3f39d8699be560298ab9))
+
 ```
 ⚠️ LEGACY REPO: 
 
